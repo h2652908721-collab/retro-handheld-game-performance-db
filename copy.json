@@ -1,0 +1,70 @@
+{
+  "brand": "FrameCheck",
+  "tagline": "The essential performance reference for handheld gamers",
+  "hero_headline": "Can this game run smoothly on this handheld? Check instantly.",
+  "hero_sub": "Real player test data. Check frame rates, settings, and comparisons. Never wonder about handheld compatibility again.",
+  "pains": [
+    "Terrified of buying a device only to find games lag or won't run",
+    "Same game runs completely differently across handhelds—no way to know which device to buy",
+    "Gaming info is scattered across posts and videos with incomplete, unverified data"
+  ],
+  "features": [
+    {
+      "title": "Performance Matrix",
+      "desc": "Search handheld × game × emulator combinations in one place. Frame rates, settings, and playability at a glance."
+    },
+    {
+      "title": "Community-Verified Database",
+      "desc": "Real player tests power our data. New handhelds and games added continuously."
+    },
+    {
+      "title": "Handheld Buying Guide",
+      "desc": "Tell us which games matter to you. Get the perfect device and configuration for your needs."
+    },
+    {
+      "title": "Optimization Settings",
+      "desc": "Best-in-class settings, official purchase links, and solutions for every game."
+    }
+  ],
+  "how": [
+    {
+      "step": "Search for your favorite game",
+      "desc": "See real-world performance across every handheld you're considering."
+    },
+    {
+      "step": "Compare and pick your device",
+      "desc": "Filter by frame rate, battery life, price. Find your ideal match."
+    },
+    {
+      "step": "Get purchase links and setup",
+      "desc": "Official retailers, optimal settings, and user feedback all in one place."
+    }
+  ],
+  "proof": "Early testers will directly decide which handheld database we prioritize next.",
+  "cta": "Join Early Access",
+  "cta_sub": "Get first access to latest handheld performance data and priority for premium features",
+  "faq": [
+    {
+      "q": "How do you ensure data accuracy?",
+      "a": "Players upload real test results. We cross-verify findings. Users flag inaccurate data, and we continuously improve."
+    },
+    {
+      "q": "Which handhelds are covered now?",
+      "a": "We're launching with major models (Anbernic, Retroid, and others). New devices added constantly."
+    },
+    {
+      "q": "Is this free?",
+      "a": "Core search is free forever. Advanced comparisons, offline data packs, and premium membership coming soon."
+    }
+  ],
+  "seo_pages": [
+    "Anbernic Play 2 game compatibility | performance benchmarks",
+    "Retroid Pocket 2S vs Anbernic | detailed handheld comparison",
+    "Arcade emulator optimization on handhelds | best settings guide",
+    "Handheld buying checklist | can this game run smoothly",
+    "NES FC and arcade handheld emulators | which device is most stable",
+    "Handheld battery life | play RPGs all day without recharge"
+  ],
+  "disclaimer": "This is a validation landing page for our early-access beta program.",
+  "lang": "en"
+}
